@@ -9,3 +9,8 @@ char arr[9];
 		cout << "ячейка массива: << endl;
 		cout << arr[j] << endl;
 	}
+
+char arr2[3];
+	for(int i = 0; i < 3; ++i){
+	cin >> arr2[i];
+	}
