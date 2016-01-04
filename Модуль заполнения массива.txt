@@ -6,6 +6,7 @@ char arr[9];
 	}
 	
 	for (int j = 0; j < 9; j++) {
+		cout << "ячейка массива: << endl;
 		cout << arr[j] << endl;
 	}
 
